@@ -15,7 +15,12 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
-[Provide a brief overview of the project, explaining the goal and motivation.]
+Handwriting analysis has long been a valuable tool in fields such as forensics and document authenticity assessments. However, manual examination of handwritten text is time-consuming, subjective, and prone to human error. To overcome these challenges, this project explores the application of deep learning models to automate age classification through handwriting
+
+## Challenges and Benefits
+Age classification through handwriting presents unique challenges, including variability in writing styles, noise within samples, and limited training data. Traditional classification techniques struggle to capture the intricate patterns and nuances present in handwriting. Deep neural networks, on the other hand, offer a powerful solution by automatically learning hierarchical representations.
+
+By leveraging deep learning models, we can extract meaningful features from handwritten text, leading to more accurate age predictions. This technology addresses the issues faced by forensic scientists and document analysts, providing faster assessments of anonymous handwritten evidence and enhancing detection of potential forgery or authentication verification of historical documents.
 
 ## Dataset
 [Describe the dataset used for training and evaluation. Include details such as the size of the dataset, source, and any preprocessing steps performed.]
